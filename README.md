@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I'm a <b>Python Developer with a passion about tecnology.</b> and a <b>aspiring Machine & Deep Learning Enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    I'm a <b>Python Developer with a passion for tecnology.</b> and a <b>aspiring Machine & Deep Learning Enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
   </em>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
  </p>
