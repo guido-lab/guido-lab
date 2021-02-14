@@ -46,3 +46,5 @@
 <a href="https://redis.io/" target="_blank"> <img src="assets\redis-original-wordmark.svg" alt="Redis" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/database/" target="_blank"> <img src="assets\oracle-original.svg" alt="Oracle" width="40" height="40"/> </a> 
 </p>
+
+"I have **no special talent**. I am only _**passionately curious**_." - Albert Einstein
