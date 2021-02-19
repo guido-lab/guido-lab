@@ -47,4 +47,4 @@
 <a href="https://www.oracle.com/database/" target="_blank"> <img src="assets\oracle-original.svg" alt="Oracle" width="40" height="40"/> </a> 
 </p>
 
--- "I have **no special talent**. I am only _**passionately curious**_." - Albert Einstein
+// "I have **no special talent**. I am only _**passionately curious**_." - Albert Einstein
