@@ -11,7 +11,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Node.js, GraphQL and React.js; 
+- 🌱 I’m currently learning Node.js, GraphQL and Angular; 
 - 👯 I’m looking to collaborate on any opensource projects & Hackathons.
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ I :heart: being part of everything challenging; 
